@@ -1,0 +1,166 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Author>danielconfidenceclub@outlook.com</Author>
+  <LastAuthor>danielconfidenceclub@outlook.com</LastAuthor>
+  <Created>2025-04-01T04:29:50Z</Created>
+  <LastSaved>2025-04-01T06:01:46Z</LastSaved>
+  <Version>16.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <SupBook>
+   <Path>/Library/Application Support/Microsoft/Office365/User Content.localized/Startup/Excel/AcrobatExcelAddin.xlam</Path>
+   <SheetName>Sheet1</SheetName>
+   <Xct>
+    <Count>0</Count>
+    <SheetIndex>0</SheetIndex>
+   </Xct>
+  </SupBook>
+  <WindowHeight>21520</WindowHeight>
+  <WindowWidth>30080</WindowWidth>
+  <WindowTopX>14080</WindowTopX>
+  <WindowTopY>32767</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Aptos Narrow" x:Family="Swiss" ss:Size="12"
+    ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s63">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <NumberFormat ss:Format="#\ ??/??"/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="invizi-en-fr-map">
+  <Table ss:ExpandedColumnCount="2" ss:ExpandedRowCount="23" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultColumnWidth="65" ss:DefaultRowHeight="16">
+   <Column ss:StyleID="s63" ss:AutoFitWidth="0" ss:Width="258"/>
+   <Column ss:AutoFitWidth="0" ss:Width="251"/>
+   <Row>
+    <Cell><Data ss:Type="String">Item_ID </Data></Cell>
+    <Cell><Data ss:Type="String">French_Title</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">8296136999111</Data></Cell>
+    <Cell><Data ss:Type="String">Culotte femme taille basse Invizi</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">8296136966343</Data></Cell>
+    <Cell><Data ss:Type="String">Culotte femme taille haute Invizi</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">8238146191559</Data></Cell>
+    <Cell><Data ss:Type="String">Dailee Körpertücher - Mikrowellengeeignet</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">8191990988999</Data></Cell>
+    <Cell><Data ss:Type="String">Invizi Pads - Maxi (Kopie) Test </Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">8187899805895</Data></Cell>
+    <Cell><Data ss:Type="String">Maxi Plus Binde Produkttest </Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">8174068793543</Data></Cell>
+    <Cell><Data ss:Type="String">Inserts absorbants Invizi - Mini</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">8173963051207</Data></Cell>
+    <Cell><Data ss:Type="String">Spende</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">8173962952903</Data></Cell>
+    <Cell><Data ss:Type="String">Serviettes d'incontinence Invizi - Extra</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">8173962854599</Data></Cell>
+    <Cell><Data ss:Type="String">Serviettes d'incontinence Invizi - Maxi</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">8173962821831</Data></Cell>
+    <Cell><Data ss:Type="String">Serviettes d'incontinence - Régulier</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">8173962723527</Data></Cell>
+    <Cell><Data ss:Type="String">Protections pour hommes - Niveau 2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">8173962657991</Data></Cell>
+    <Cell><Data ss:Type="String">Protections pour hommes - Niveau 3</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">8173962625223</Data></Cell>
+    <Cell><Data ss:Type="String">Serviettes d'incontinence Invizi - Maxi Plus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">8173962330311</Data></Cell>
+    <Cell><Data ss:Type="String">Sous-vêtements Invizi - Plus</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">8173962264775</Data></Cell>
+    <Cell><Data ss:Type="String">Sous-vêtements Invizi - Maxi</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">8173961969863</Data></Cell>
+    <Cell><Data ss:Type="String">Changes Invizi - Maxi</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">8173961937095</Data></Cell>
+    <Cell><Data ss:Type="String">Sous-vêtements pour enfants/ados Nundies 8-15 ans</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">8173961838791</Data></Cell>
+    <Cell><Data ss:Type="String">Sous-vêtements pour enfants/ados Nundies 4-7 ans</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">8173961117895</Data></Cell>
+    <Cell><Data ss:Type="String">Alèses imperméables Invizi - 60 x 60 cm</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">8173961052359</Data></Cell>
+    <Cell><Data ss:Type="String">Alèses imperméables Invizi - 90 x 60 cm</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">8173960986823</Data></Cell>
+    <Cell><Data ss:Type="String">Inserts absorbants Invizi - Maxi</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">8173960921287</Data></Cell>
+    <Cell><Data ss:Type="String">Lingettes micro-ondables Dailee</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Zoom>111</Zoom>
+   <Selected/>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>4</ActiveRow>
+     <ActiveCol>1</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>
